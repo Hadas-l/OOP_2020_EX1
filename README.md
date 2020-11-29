@@ -24,8 +24,6 @@ Getting Started:
 Contact:
 
 	Name: Hadas Levy 
-	ID: 203679410
-	E-Mail: Hadas.24592@gmail.com
 	Github: https://github.com/Hadas-l/OOP_2020_EX1
 	
 Acknowledgements:
