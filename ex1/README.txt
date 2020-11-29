@@ -21,12 +21,12 @@ Getting Started:
 
 Contact:
 
-Acknowledgements:
-	
 	Name: Hadas Levy 
 	ID: 203679410
 	E-Mail: Hadas.24592@gmail.com
-	Github:
+	Github: https://github.com/Hadas-l/OOP_2020_EX1
+	
+Acknowledgements:
 
 	- search, insert, delete in o(1) => https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
 
